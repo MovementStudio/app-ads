@@ -1,4 +1,6 @@
-#Facebook Ad Network
+#Facebook Ownership Confirmation
+facebook.com, 599318802056609, RESELLER, с3e20eee3f780d68
+facebook.com, 905160440631287, RESELLER, с3e20eee3f780d68
 facebook.com, 150641824509284, RESELLER, c3e20eee3f780d68
 
 #Adcolony
